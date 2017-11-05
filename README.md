@@ -15,5 +15,5 @@ Created a hangman game powered by Javascript Constructors and run through Node.j
 -Inquirer NPM Package<br />
 -Is-letter NPM Package<br />
 
-##Authors 
+##Authors <br />
 Annie To
