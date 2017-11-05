@@ -1,7 +1,7 @@
 # constructor_hangman
 
 ## Description
-Created a hangman game powered by Javascript Constructor and run through Node.js.
+Created a hangman game powered by Javascript Constructors and run through Node.js.
 
 ## Getting Started
 -Clone Repo<br />
