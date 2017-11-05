@@ -4,16 +4,16 @@
 Created a hangman game through Node.js and powered by Javascript constructors.
 
 ## Getting Started
--Clone Repo__
--Install NPM Package Inquirer__
--install NPM Package is-letter__
--Open terminal and run command "node game.js startGame" to play the game."__
--guess the word by entering letters (Adventure Time Characters)__
+-Clone Repo<br />
+-Install NPM Package Inquirer<br />
+-install NPM Package is-letter<br />
+-Open terminal and run command "node game.js startGame" to play the game."<br />
+-guess the word by entering letters (Adventure Time Characters)<br />
 
 ## Technologies Used
--node.js__
--Inquirer NPM Package__
--is-letter NPM Package__
+-node.js<br />
+-Inquirer NPM Package<br />
+-is-letter NPM Package<br />
 
 ##Authors 
 Annie To
